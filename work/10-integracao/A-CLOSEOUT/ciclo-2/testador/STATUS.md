@@ -1,0 +1,2 @@
+# STATUS — A-CLOSEOUT ciclo 2/5
+FALHOU documentalmente; sem aprovação. Leitura independente concluída, parecer do Integrador recebido e confrontado. 59 blobs correspondem à árvore; C09/C10 remanescentes e R1 de Pesquisa não revalidado. Correções propostas P01–P04 e limites em TEST_REPORT.md. Terra/medium informado pelo usuário e observado indiretamente no check do Integrador; backend/preço não testados. Ciclo 1 e relatório parcial preservados.

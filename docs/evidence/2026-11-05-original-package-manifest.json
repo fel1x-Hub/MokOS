@@ -1,0 +1,282 @@
+[
+    {
+        "path":  ".gitattributes",
+        "bytes":  19,
+        "sha256":  "D60F352D0DB1404C70AFB4BB8B2CA3FD1C610572AA40720E8A0B7BAA7885418C"
+    },
+    {
+        "path":  "AGENTS.md",
+        "bytes":  20369,
+        "sha256":  "AC2528F745E3853087FA32500E72071A13BDB2E5C89448E50A6AACBA62EA6B20"
+    },
+    {
+        "path":  "agents/01-ideacao/executor.md",
+        "bytes":  3135,
+        "sha256":  "71A750613A1CCB356B58E5C63C181EC6BAE15A1FF8FEF98E7D41DF4FCB7B8B6E"
+    },
+    {
+        "path":  "agents/01-ideacao/lider.md",
+        "bytes":  3194,
+        "sha256":  "B5F66BC471E796EACA9D022001E267A0ACF3F55F4CADD1F8971877845842E428"
+    },
+    {
+        "path":  "agents/01-ideacao/testador.md",
+        "bytes":  3074,
+        "sha256":  "195D0C7BE94E5BA96FDD0FBE1A6CAA1CFB6013ACC812A9628814906D07FA35EA"
+    },
+    {
+        "path":  "agents/02-pesquisa/executor.md",
+        "bytes":  3038,
+        "sha256":  "8B8029154200CC7FEFA996E47B3B91FBE26A7FF2C804792621284B3300FAE63C"
+    },
+    {
+        "path":  "agents/02-pesquisa/lider.md",
+        "bytes":  3128,
+        "sha256":  "102A3110E0CA4A89B8E9B56C7AAA26271DD300B98A06787B6D2C92FEF46AD05D"
+    },
+    {
+        "path":  "agents/02-pesquisa/testador.md",
+        "bytes":  2968,
+        "sha256":  "9394494F6183194EDA39958D2A5BCBB10425829D1C364E77A952FAB71527F6A7"
+    },
+    {
+        "path":  "agents/03-mok/executor.md",
+        "bytes":  3126,
+        "sha256":  "6F7BC09F76B29B326301021093302F59D089FB7267A370B30671BFF832644905"
+    },
+    {
+        "path":  "agents/03-mok/lider.md",
+        "bytes":  3213,
+        "sha256":  "A764DC9F67EF9E84B9E8ABB68748F180A48628FEA4EC76C45C46D000BBBD76F3"
+    },
+    {
+        "path":  "agents/03-mok/testador.md",
+        "bytes":  2995,
+        "sha256":  "0425AB44FBE4087C0444B97DB404C1BA2E780BFA0D78DBBD17C21B828EFBBC0C"
+    },
+    {
+        "path":  "agents/04-dev-rust/executor.md",
+        "bytes":  3192,
+        "sha256":  "9CED860B55844D843E8193007643F86338BB4A84B3E66B3BA5F1CFBD34BB4D3F"
+    },
+    {
+        "path":  "agents/04-dev-rust/lider.md",
+        "bytes":  3253,
+        "sha256":  "CCA8415549D32A291EDBFA1961ECEFE4C895F052B5A5FDF79C4AB40F1B4CE1E4"
+    },
+    {
+        "path":  "agents/04-dev-rust/testador.md",
+        "bytes":  3180,
+        "sha256":  "2B0AE0682B6F5F149B116565A854F9251A13304A49C5F81FFF184869CA6FCB09"
+    },
+    {
+        "path":  "agents/05-dev-assembly/executor.md",
+        "bytes":  3167,
+        "sha256":  "9715620A16AD3A2498FEBA664307B6282E2FD157D4A524DABBEDA8DDEB5A626F"
+    },
+    {
+        "path":  "agents/05-dev-assembly/lider.md",
+        "bytes":  3251,
+        "sha256":  "74CC39201ECC997BA24352F1D26DA78E19E4A4249E181BD8EA4A696A579A0F70"
+    },
+    {
+        "path":  "agents/05-dev-assembly/testador.md",
+        "bytes":  3209,
+        "sha256":  "5020FF911189EC1DAA4E7358B8B2A73AAD87848B8F85CF6420284374408729D1"
+    },
+    {
+        "path":  "agents/06-dev-c/executor.md",
+        "bytes":  2849,
+        "sha256":  "CDE6FA0B559D3B41E409EFE6784AFC5A1633536E5061EAAF3D115594A6C0C8B0"
+    },
+    {
+        "path":  "agents/06-dev-c/lider.md",
+        "bytes":  2914,
+        "sha256":  "D9C5689B094CC4EA92910B42A846E29400F966619E10DDC1983DAC6EB517731F"
+    },
+    {
+        "path":  "agents/06-dev-c/testador.md",
+        "bytes":  2789,
+        "sha256":  "72141163CDF657A28C69519E8658B063EA4580C9CB7BA6ABB047B5019D2BD392"
+    },
+    {
+        "path":  "agents/07-dev-cpp/executor.md",
+        "bytes":  2874,
+        "sha256":  "E8239F682358E361537D7E30D85CCFA3B2725248AA65AEB13AE5DCD5D34683AD"
+    },
+    {
+        "path":  "agents/07-dev-cpp/lider.md",
+        "bytes":  2939,
+        "sha256":  "F3F65DAD59BB6E512957C6DE7F2E1917C7A290DFDAE407BF034AC849F987C3BD"
+    },
+    {
+        "path":  "agents/07-dev-cpp/testador.md",
+        "bytes":  2788,
+        "sha256":  "04A89CB578EB60F6CAE0B641CCEF0AF2B4B2FFD826F35D6AA097F7898A0A131D"
+    },
+    {
+        "path":  "agents/08-moklang/executor.md",
+        "bytes":  3315,
+        "sha256":  "550CEBE301ABE110B1B1B689A5B3FF54B15F918B85DD58F26F07B1D45DC2FD44"
+    },
+    {
+        "path":  "agents/08-moklang/lider.md",
+        "bytes":  3410,
+        "sha256":  "77F398ACD7664F856696C3B25999272B7B5F6C45E60142919A445B7AAE889BD5"
+    },
+    {
+        "path":  "agents/08-moklang/testador.md",
+        "bytes":  3261,
+        "sha256":  "D1CE8D2164C59C27D9CDB82A2AB4C8C573533C98F3DF345E8A4B867D7A83921E"
+    },
+    {
+        "path":  "agents/09-otimizacao/executor.md",
+        "bytes":  3079,
+        "sha256":  "4AA1B7664421AF654D694ECFFB0DAF70C7ED1EB03B4365E3009E970EB9E2B27C"
+    },
+    {
+        "path":  "agents/09-otimizacao/lider.md",
+        "bytes":  3172,
+        "sha256":  "035E944FAD3C7E72F7392ED29E12A361A60A5360D2024E6778EAC346987C3A1D"
+    },
+    {
+        "path":  "agents/09-otimizacao/testador.md",
+        "bytes":  2984,
+        "sha256":  "32609DF4BB88FA9ED26CE6742A8EE0E5CE10108735380A90F1564B2942A5F80D"
+    },
+    {
+        "path":  "agents/10-integracao/executor.md",
+        "bytes":  3081,
+        "sha256":  "01CDE0ECE829EE6F871068127DF8F639C422106C251D0F4F39D19AA8BB3F2190"
+    },
+    {
+        "path":  "agents/10-integracao/lider.md",
+        "bytes":  3254,
+        "sha256":  "28C71EE1DC37D08B799B48F9D182CDF8A019889E7D18880CD141021B4ACD7717"
+    },
+    {
+        "path":  "agents/10-integracao/testador.md",
+        "bytes":  3066,
+        "sha256":  "5C80C40C76A6BA4B23894BD67A75A5992E79025C0E838A77C10DE756FAF8E2D0"
+    },
+    {
+        "path":  "agents/11-build-iso-instalador/executor.md",
+        "bytes":  3419,
+        "sha256":  "13058252F4E243B70F5CDF2B513CAC7265F236A56A18B1A1E2F191E14492B0E8"
+    },
+    {
+        "path":  "agents/11-build-iso-instalador/lider.md",
+        "bytes":  3453,
+        "sha256":  "76843AEB15226477CAEC540B1602E3184AF36737B628327DA00B5CE5587C0F8F"
+    },
+    {
+        "path":  "agents/11-build-iso-instalador/testador.md",
+        "bytes":  3360,
+        "sha256":  "870292E465716E78BF57763F89A2A6BBFCDDE7DD767D0ACF99E2307B3CBFB369"
+    },
+    {
+        "path":  "agents/INDEX.md",
+        "bytes":  1801,
+        "sha256":  "EA72CC570B40266CE9851D479B0404EA5AF2F5B74646EC5A46C352AFF896FB22"
+    },
+    {
+        "path":  "docs/ADR/0001-kernel.md",
+        "bytes":  2502,
+        "sha256":  "074F20B35106CBD50019F15A8135C7830A579679A8036712A4D9C5053DB71BAB"
+    },
+    {
+        "path":  "docs/ADR/0002-mklc-backend.md",
+        "bytes":  2199,
+        "sha256":  "07B263C113430FB96FA530284DFC086ABBB4631753519C27B505BD34723EF887"
+    },
+    {
+        "path":  "docs/ADR/0003-moklang-memoria.md",
+        "bytes":  2690,
+        "sha256":  "F0625F43E89DC1DC2664A7BED5E746B600213C9350DF42950BE6E2C65DB95A2B"
+    },
+    {
+        "path":  "docs/ADR/0004-boot.md",
+        "bytes":  2720,
+        "sha256":  "5E3FFA0AB498BF3D98FEFCEA336A1CBCCFC30BA2BAF502ADF8CC9D1D035330F4"
+    },
+    {
+        "path":  "docs/ADR/0005-referencia-qemu.md",
+        "bytes":  4586,
+        "sha256":  "20C4C60F520614EFC3C91BB44621380B988920564B3FE0FB5ADDE78E203F2087"
+    },
+    {
+        "path":  "docs/ENVIRONMENT.md",
+        "bytes":  1750,
+        "sha256":  "C82C1BE296B17F2224BA584AB85D6FA34FAE3CA3FA32E5DC47EFA1B0CB62730D"
+    },
+    {
+        "path":  "docs/EVIDENCE.md",
+        "bytes":  3017,
+        "sha256":  "56C923E688BE98CCA47AD4F858EB7584CDF4675DD8AB6F18188317EC2619640A"
+    },
+    {
+        "path":  "docs/INTERFACES.md",
+        "bytes":  2017,
+        "sha256":  "8C57C5337B668AD0B76CB3AD780C2BA9EF58B2AAC6799FEA7784668093DA306A"
+    },
+    {
+        "path":  "docs/MORNING.md",
+        "bytes":  8280,
+        "sha256":  "3122401FAA2160E9883877E13B2997342E81EBDD04BE2C52C9655EF08D1CE7DE"
+    },
+    {
+        "path":  "docs/NIGHT-AUTHORIZATION.md",
+        "bytes":  1594,
+        "sha256":  "5B8750FA6B584D070B6499E70B87226A0CAC74BBD11B0F5340C93D34CEDBBE47"
+    },
+    {
+        "path":  "docs/PROGRESS.md",
+        "bytes":  9973,
+        "sha256":  "DCD9D52E191126D538F942944BEA96FC1423C7F50249EC6C867A6F24E89C0EFC"
+    },
+    {
+        "path":  "docs/REMOTE-MIGRATION.md",
+        "bytes":  3976,
+        "sha256":  "7B3F5E046388ECC00C8FB7F04C1CB160011693F6FF059060477521AF66BAAE5F"
+    },
+    {
+        "path":  "docs/RESUME.md",
+        "bytes":  3806,
+        "sha256":  "53B076D7DFC2DECEEC97A03864E62E26E1FD8507D86F5670566FCB3E625365EB"
+    },
+    {
+        "path":  "docs/ROADMAP.md",
+        "bytes":  3261,
+        "sha256":  "DD65AEE850DDAFA8CF5BE57101FF99FB3320C9CBE8C1334E4AB8778906D546D5"
+    },
+    {
+        "path":  "docs/SPEC.md",
+        "bytes":  4707,
+        "sha256":  "E2498744774C9B2F861A8CDC5DC6A5A68D0479CB7EDB4294B7338A04CCEF1360"
+    },
+    {
+        "path":  "docs/TOOLING.md",
+        "bytes":  2907,
+        "sha256":  "E55932DB63E42DA264AF994EA6A8A5F92D6ACA561B8443EB0E87215A5067311B"
+    },
+    {
+        "path":  "work/templates/IMPL_NOTES.md",
+        "bytes":  509,
+        "sha256":  "85A7EE4AD8B76D94161F5804937D56610A4748506718CD267BF2868B347A1CFD"
+    },
+    {
+        "path":  "work/templates/STATUS.md",
+        "bytes":  657,
+        "sha256":  "9EF4DD32EB5ABBCC377827F00AE00163C92ECC8615830E8D1845811F06FAFD72"
+    },
+    {
+        "path":  "work/templates/TASK.md",
+        "bytes":  960,
+        "sha256":  "CFA21D3F1AF85DB5996BBFBF310ADAB7874353CC881ADD1938C2076E8E03839A"
+    },
+    {
+        "path":  "work/templates/TEST_REPORT.md",
+        "bytes":  653,
+        "sha256":  "A7565A80FE56A2A3A3B0531F3FF88A2639781B6353B1B027E2698DF59B04385F"
+    }
+]
