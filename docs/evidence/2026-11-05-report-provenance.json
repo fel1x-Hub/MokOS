@@ -1,0 +1,254 @@
+[
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\76273b66-47c3-4f75-8927-350f2233deef\\work\\01-ideacao\\A-DECISIONS\\RELATORIO.md",
+    "target": "work/01-ideacao/A-DECISIONS/executor/RELATORIO.md",
+    "sha256": "DD954688E3B1BAC4D1FB37EAAD891EB0E3D2E98809E5DFA190379FA9D0058339",
+    "author": "executor",
+    "task": "A-DECISIONS",
+    "source_sha256": "DD954688E3B1BAC4D1FB37EAAD891EB0E3D2E98809E5DFA190379FA9D0058339",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\76273b66-47c3-4f75-8927-350f2233deef\\work\\01-ideacao\\A-DECISIONS\\IMPL_NOTES.md",
+    "target": "work/01-ideacao/A-DECISIONS/executor/IMPL_NOTES.md",
+    "sha256": "9A33204A5A60CF3A4EA97960559B7F0F1837548CEAD2FEE5AB5E46B38D581F9A",
+    "author": "executor",
+    "task": "A-DECISIONS",
+    "source_sha256": "9A33204A5A60CF3A4EA97960559B7F0F1837548CEAD2FEE5AB5E46B38D581F9A",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47b04d6f-fb78-473f-a4d3-5de1ef147e6a\\work\\01-ideacao\\A-DECISIONS\\TEST_REPORT.md",
+    "target": "work/01-ideacao/A-DECISIONS/testador/TEST_REPORT.md",
+    "sha256": "B62C9C9D7C1784297DA853CD0A3D59E5C83D2A7763EBC15D23FD349E896338BC",
+    "author": "testador",
+    "task": "A-DECISIONS",
+    "source_sha256": "B62C9C9D7C1784297DA853CD0A3D59E5C83D2A7763EBC15D23FD349E896338BC",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47b04d6f-fb78-473f-a4d3-5de1ef147e6a\\work\\01-ideacao\\A-DECISIONS\\TEST_PLAN.md",
+    "target": "work/01-ideacao/A-DECISIONS/testador/TEST_PLAN.md",
+    "sha256": "4662BE2101D7F788B3D4AACB4A939003B5098F4720AEAC0A916DB65C8EE392B4",
+    "author": "testador",
+    "task": "A-DECISIONS",
+    "source_sha256": "4662BE2101D7F788B3D4AACB4A939003B5098F4720AEAC0A916DB65C8EE392B4",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\0bd13b93-8062-4bd3-a81e-cff3444f9334\\work\\01-ideacao\\A-DECISIONS\\RESULTADO_FINAL.md",
+    "target": "work/01-ideacao/A-DECISIONS/lider/RESULTADO_FINAL.md",
+    "sha256": "5CAD244AB6C3912C72A7844859925BFCC15BD492F6CD3888D4988CB46F3D2AFE",
+    "author": "lider",
+    "task": "A-DECISIONS",
+    "source_sha256": "5CAD244AB6C3912C72A7844859925BFCC15BD492F6CD3888D4988CB46F3D2AFE",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\0bd13b93-8062-4bd3-a81e-cff3444f9334\\work\\01-ideacao\\A-DECISIONS\\STATUS.md",
+    "target": "work/01-ideacao/A-DECISIONS/lider/STATUS.md",
+    "sha256": "E774FB6E53BD8FFE14E8F295C2CE3B5975EED98DE43F11EBF2BC4FF3E3DDD4EB",
+    "author": "lider",
+    "task": "A-DECISIONS",
+    "source_sha256": "E774FB6E53BD8FFE14E8F295C2CE3B5975EED98DE43F11EBF2BC4FF3E3DDD4EB",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\0bd13b93-8062-4bd3-a81e-cff3444f9334\\work\\01-ideacao\\A-DECISIONS\\TASK.md",
+    "target": "work/01-ideacao/A-DECISIONS/lider/TASK.md",
+    "sha256": "51E631338B9017A964AC1F52D0F2913FEFB159C69F8C16B5955C6E9866D6F1CC",
+    "author": "lider",
+    "task": "A-DECISIONS",
+    "source_sha256": "51E631338B9017A964AC1F52D0F2913FEFB159C69F8C16B5955C6E9866D6F1CC",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\b48a6ac2-d737-469c-bd3d-d6d73f133b39\\work\\02-pesquisa\\A-SOURCES\\REPORT.md",
+    "target": "work/02-pesquisa/A-SOURCES/executor/REPORT.md",
+    "sha256": "8469445449C0C1E9797A2DFE057355D3BE18771726C3124E1B2FC8D027ECCA42",
+    "author": "executor",
+    "task": "A-SOURCES",
+    "source_sha256": "8469445449C0C1E9797A2DFE057355D3BE18771726C3124E1B2FC8D027ECCA42",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\b48a6ac2-d737-469c-bd3d-d6d73f133b39\\work\\02-pesquisa\\A-SOURCES\\IMPL_NOTES.md",
+    "target": "work/02-pesquisa/A-SOURCES/executor/IMPL_NOTES.md",
+    "sha256": "36881E88670B846077D83B1109AEE181C920E4A338E773E02E3427E0DE80D428",
+    "author": "executor",
+    "task": "A-SOURCES",
+    "source_sha256": "36881E88670B846077D83B1109AEE181C920E4A338E773E02E3427E0DE80D428",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\b48a6ac2-d737-469c-bd3d-d6d73f133b39\\work\\02-pesquisa\\A-SOURCES\\STATUS.md",
+    "target": "work/02-pesquisa/A-SOURCES/executor/STATUS.md",
+    "sha256": "8C632A6F1F9307D46A542786F32B088FA85FA71E55E454008F3DB049B5FE1A98",
+    "author": "executor",
+    "task": "A-SOURCES",
+    "source_sha256": "8C632A6F1F9307D46A542786F32B088FA85FA71E55E454008F3DB049B5FE1A98",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\b48a6ac2-d737-469c-bd3d-d6d73f133b39\\work\\02-pesquisa\\A-SOURCES\\EVIDENCE.md",
+    "target": "work/02-pesquisa/A-SOURCES/executor/EVIDENCE.md",
+    "sha256": "D1DBC29989243E0FF8906DDF91634D2FB12A5B470C0C7EC2EE4B0FF9D3340204",
+    "author": "executor",
+    "task": "A-SOURCES",
+    "source_sha256": "D1DBC29989243E0FF8906DDF91634D2FB12A5B470C0C7EC2EE4B0FF9D3340204",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\9751366c-dc0d-44c3-87ff-0a261af72704\\work\\02-pesquisa\\A-SOURCES\\TEST_REPORT.md",
+    "target": "work/02-pesquisa/A-SOURCES/verificador/TEST_REPORT.md",
+    "sha256": "2551DCBCD4109BDF8E860F1BF30279EFDFA3B1BF570CDCB26E03AEBE5659E873",
+    "author": "verificador",
+    "task": "A-SOURCES",
+    "source_sha256": "2551DCBCD4109BDF8E860F1BF30279EFDFA3B1BF570CDCB26E03AEBE5659E873",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\9751366c-dc0d-44c3-87ff-0a261af72704\\work\\02-pesquisa\\A-SOURCES\\SOURCE_CHECKS.md",
+    "target": "work/02-pesquisa/A-SOURCES/verificador/SOURCE_CHECKS.md",
+    "sha256": "9C29CB4CA028F06CB4934D014436C9C325CBDDEA67ED9734A24B32177DB8DE74",
+    "author": "verificador",
+    "task": "A-SOURCES",
+    "source_sha256": "9C29CB4CA028F06CB4934D014436C9C325CBDDEA67ED9734A24B32177DB8DE74",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\b48a6ac2-d737-469c-bd3d-d6d73f133b39\\work\\02-pesquisa\\A-CLOSEOUT\\IMPL_NOTES.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/executor/IMPL_NOTES.md",
+    "sha256": "EC78C4A7F0EB66235C6D9F35AEB92A08AD232DEB6755B856569B2C907B3FF163",
+    "author": "executor",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "EC78C4A7F0EB66235C6D9F35AEB92A08AD232DEB6755B856569B2C907B3FF163",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\9751366c-dc0d-44c3-87ff-0a261af72704\\work\\02-pesquisa\\A-CLOSEOUT\\TEST_REPORT.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/verificador/TEST_REPORT.md",
+    "sha256": "BC228389DEA08B08EA29F912AE67CA0BF79C8E18C9C7BC421ADA06334B584A6B",
+    "author": "verificador",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "BC228389DEA08B08EA29F912AE67CA0BF79C8E18C9C7BC421ADA06334B584A6B",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\9751366c-dc0d-44c3-87ff-0a261af72704\\work\\02-pesquisa\\A-CLOSEOUT\\STATUS.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/verificador/STATUS.md",
+    "sha256": "5F5EA9673C403E058B6539E67D1D41D0042B4E4797284D3F9EFD8593685D53EB",
+    "author": "verificador",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "5F5EA9673C403E058B6539E67D1D41D0042B4E4797284D3F9EFD8593685D53EB",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\83df6a95-1b9f-49b8-9fd6-6f5fd8041c88\\work\\02-pesquisa\\A-CLOSEOUT\\TASK.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/lider/TASK.md",
+    "sha256": "938518741DD3F911CB9E127E564943B75C5AF82C5CB17A4F7D431DDA42B2747B",
+    "author": "lider",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "938518741DD3F911CB9E127E564943B75C5AF82C5CB17A4F7D431DDA42B2747B",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\83df6a95-1b9f-49b8-9fd6-6f5fd8041c88\\work\\02-pesquisa\\A-CLOSEOUT\\RESULTADO_FINAL.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/lider/RESULTADO_FINAL.md",
+    "sha256": "6988D9DE7568CB5DB26DFE69EF0CF6CB22A463483A419E5A4F8F105981FAA9E1",
+    "author": "lider",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "6988D9DE7568CB5DB26DFE69EF0CF6CB22A463483A419E5A4F8F105981FAA9E1",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\83df6a95-1b9f-49b8-9fd6-6f5fd8041c88\\work\\02-pesquisa\\A-CLOSEOUT\\STATUS.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/lider/STATUS.md",
+    "sha256": "731F78110CC52D2EA9BD37ED0299ED0582A1CBF4145AF3BD34EBD00BF48DD6FD",
+    "author": "lider",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "731F78110CC52D2EA9BD37ED0299ED0582A1CBF4145AF3BD34EBD00BF48DD6FD",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\83df6a95-1b9f-49b8-9fd6-6f5fd8041c88\\work\\02-pesquisa\\A-CLOSEOUT\\A5-SELETOR.md",
+    "target": "work/02-pesquisa/A-CLOSEOUT/lider/A5-SELETOR.md",
+    "sha256": "4D063130DF32FAE7D1C25F818D1AD65D15A82CC7A78CC2B0FFBA2B42414E7618",
+    "author": "lider",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "4D063130DF32FAE7D1C25F818D1AD65D15A82CC7A78CC2B0FFBA2B42414E7618",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\83df6a95-1b9f-49b8-9fd6-6f5fd8041c88\\work\\02-pesquisa\\A-CLOSEOUT\\HASHES.sha256",
+    "target": "work/02-pesquisa/A-CLOSEOUT/lider/HASHES.sha256",
+    "sha256": "BFB2AAC384F34F95648645492D3DBB373769C1098A0F0F7280E7C290045E2B9F",
+    "author": "lider",
+    "task": "A-CLOSEOUT",
+    "source_sha256": "BFB2AAC384F34F95648645492D3DBB373769C1098A0F0F7280E7C290045E2B9F",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\966867ee-af22-4224-a562-bf865a8ab628\\work\\10-integracao\\A-CLOSEOUT\\IMPL_NOTES.md",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/integrador/IMPL_NOTES.md",
+    "sha256": "13230FEF9E8DD4630B1FBC79A30EFC8606E59BF9D7B6DF988AEE151A98EE9CE0",
+    "author": "integrador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "13230FEF9E8DD4630B1FBC79A30EFC8606E59BF9D7B6DF988AEE151A98EE9CE0",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\966867ee-af22-4224-a562-bf865a8ab628\\work\\10-integracao\\A-CLOSEOUT\\STATUS.md",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/integrador/STATUS.md",
+    "sha256": "B29D08141E7ED3A8EA5E6424B26D56141B738652925BD8442E1CEE679C0C0427",
+    "author": "integrador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "B29D08141E7ED3A8EA5E6424B26D56141B738652925BD8442E1CEE679C0C0427",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\966867ee-af22-4224-a562-bf865a8ab628\\work\\10-integracao\\A-CLOSEOUT\\BLOB_CHECK.json",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/integrador/BLOB_CHECK.json",
+    "sha256": "2AB38E6097C265411EFD483F55395471D6FAB7C54594767C60387CB26605B0F8",
+    "author": "integrador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "FA57982FF52C0C8C6931A78672117F6E64496C98E9AA967CE542FDC4E6C28C77",
+    "normalization": "CRLF to LF; original bytes recoverable from raw-encodings.json"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47220040-cb70-4fb9-9e88-2fb2f5755f3b\\work\\10-integracao\\A-CLOSEOUT\\TEST_REPORT.md",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/testador/TEST_REPORT.md",
+    "sha256": "8B4A65682E57E42CE63EFCB350F8B4A7C48C0EA817B71AD61F9FDE47408A9C9D",
+    "author": "testador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "8B4A65682E57E42CE63EFCB350F8B4A7C48C0EA817B71AD61F9FDE47408A9C9D",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47220040-cb70-4fb9-9e88-2fb2f5755f3b\\work\\10-integracao\\A-CLOSEOUT\\STATUS.md",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/testador/STATUS.md",
+    "sha256": "250D300D9D87F8AA123CBAC9121DDD7139453FD667786029C8A0D1C75DC1F9A2",
+    "author": "testador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "250D300D9D87F8AA123CBAC9121DDD7139453FD667786029C8A0D1C75DC1F9A2",
+    "normalization": "none"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47220040-cb70-4fb9-9e88-2fb2f5755f3b\\work\\10-integracao\\A-CLOSEOUT\\blob-evidence.txt",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/testador/blob-evidence.txt",
+    "sha256": "1560BB807E75201567870CF0D86FC2EFC8EFFD136F0D03DB75F6C0009641FEB6",
+    "author": "testador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "E9633588A96B2A08E6E17E437D8FCD3390D899916C6B06804B03F7673B64CA20",
+    "normalization": "CRLF to LF; original bytes recoverable from raw-encodings.json"
+  },
+  {
+    "source": "C:\\Users\\20260210-ieg\\Desktop\\MokOS\\.maestri\\roles\\47220040-cb70-4fb9-9e88-2fb2f5755f3b\\work\\10-integracao\\A-CLOSEOUT\\PLANO-ciclo-2.md",
+    "target": "work/10-integracao/A-CLOSEOUT/ciclo-2/testador/PLANO-ciclo-2.md",
+    "sha256": "4DA18DAE37FA2134C4490EE18B8B1DA546A242910B0F44F4D6E03E14CEC46572",
+    "author": "testador",
+    "task": "A-CLOSEOUT ciclo 2",
+    "source_sha256": "33D3C0DC73BEE054629E85EF098706210FD52AA65D8D8E95EB59FF29C74E5ABD",
+    "normalization": "CRLF to LF; original bytes recoverable from raw-encodings.json"
+  }
+]

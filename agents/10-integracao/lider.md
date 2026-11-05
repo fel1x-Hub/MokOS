@@ -25,7 +25,7 @@ Unir no tronco os resultados aprovados, resolver conflitos de interface, manter 
 ## Ownership (diretórios e arquivos)
 - ci/
 - tests/system/
-- docs/INTERFACES.md (somente mantém coerência; mudanças passam pelo Orquestrador)
+- docs/INTERFACES.md (somente leitura neste papel; relatar divergências ao Orquestrador e ao Integrador, sem editar o contrato)
 - work/10-integracao/<task-id>/
 Você só edita o que está aqui. Cada agente trabalha no seu branch/worktree; nunca dois agentes editam os mesmos arquivos.
 
@@ -44,7 +44,7 @@ Você só edita o que está aqui. Cada agente trabalha no seu branch/worktree; n
 - Estado global: `docs/PROGRESS.md`; estado da tarefa: `work/10-integracao/<task-id>/STATUS.md`
 
 ## Ferramentas e comandos permitidos
-- git (merge/rebase em branch de integração)
+- git para inspeção de status/diff/log e conferência de commits; merge/rebase são executados pelo Integrador após os aceites, nunca pelo Líder nesta função.
 - QEMU headless, just/xtask, CI local
 Proibido sem confirmação do usuário: escrita em disco ou partição física, `git push --force`, exclusões em massa, dependências grandes, cópia de código de terceiros.
 

@@ -11,7 +11,7 @@ Sistema operacional de kernel próprio, UX original inspirada no macOS, shell mo
 - R2: M0 demonstra hello em x86_64 e aarch64 sob QEMU, com comandos reproduzíveis e logs reais.
 - R3: build com toolchain fixada, entradas documentadas e duas execuções limpas com hashes idênticos dos artefatos determinísticos.
 - R4: ISO UEFI mokos-<versão>-<arch>.iso, checksum SHA256 e assinatura; pipeline just iso; M0 inclui boot via Ventoy em QEMU.
-- R5: Linux remoto autorizado em 2026-11-05; GitHub Codespaces escolhido pelo usuário. Windows 11 apenas como cliente, sem exigir WSL ou administrador local. Repositório persistente em /workspaces/<repositorio> no Codespaces, ou ~/mokos em servidor SSH. QEMU headless com TCG como baseline; aarch64 emulação pura; KVM somente após verificação real. Ambiente remoto ainda não provisionado/verificado.
+- R5: Linux remoto GitHub Codespaces autorizado e acessivel em /workspaces/MokOS; Ubuntu 24.04.5 x86_64. Windows somente cliente. QEMU headless TCG baseline; aarch64 emulacao pura; KVM somente apos teste real. Inventario atual em ENVIRONMENT.md; boot MokOS nao testado.
 - R6: nenhuma escrita em dispositivo físico; imagens virtuais regulares são permitidas. Instalador fora desta sessão.
 - R7: arquitetura registrada antes da implementação; decisões noturnas provisórias, com alternativas, custo de reversão e plano de retorno.
 - R8: entregas independentes por Executor/Testador, aprovação do Líder e passagem pela Integração antes do tronco.
@@ -20,7 +20,7 @@ Sistema operacional de kernel próprio, UX original inspirada no macOS, shell mo
 
 ## Aceite da Etapa A
 Inventário real dentro do Linux remoto; documentos SPEC/INTERFACES/ROADMAP e templates; 33 perfis das 11 frentes; catálogo de modelos confirmado ou limitação explicitada; recomendações de Ideação e Pesquisa com revisão independente e ADRs provisórios.
-Estado: incompleta; acesso remoto pendente, entregas apenas preparadas na pasta do papel. A ausência de WSL local deixou de ser requisito bloqueante com a mudança autorizada; ainda falta ambiente Linux utilizável.
+Estado atual: ferramentas e inventario concluidos; revisao focal final pendente. Ver PROGRESS.md para aceite A; historico anterior de acesso nao e bloqueio atual.
 
 ## Aceite de M0
 1. Toolchain e versões/targets registrados.

@@ -22,7 +22,7 @@ Implementar o toolkit gráfico e ports C++ justificados, integrados ao composito
 - Alterar testes do Testador para passar
 - Expandir escopo; registrar em Débitos/Ideias
 - Passar de 5 ciclos com o Testador sem escalar ao Líder
-- Reimplementar o compositor (frente Rust/Integração define o protocolo)
+- Reimplementar o compositor. Rust e Integração propõem ajustes de protocolo; a decisão e aprovação de interfaces pertencem ao Orquestrador, registradas em docs/INTERFACES.md.
 - Usar exceções/RTTI sem ADR
 - Copiar assets ou fontes proprietárias
 

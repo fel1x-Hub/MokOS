@@ -1,3 +1,6 @@
+# Política desta retomada
+Consultar docs/SESSION-AUTHORIZATION.md e docs/MODELS.md: usuário solicitou concluir A e continuar após critérios/aceites reais, até M0; máximo high, sem Astra/xhigh. Não é aprovação antecipada dos resultados nem de aquisição de terceiros. A regra geral de parada abaixo aplica-se quando não houver autorização de continuidade já registrada.
+
 # Atualizacao operacional verificada - 2026-11-05
 Linux remoto escolhido pelo usuario esta acessivel em /workspaces/MokOS (GitHub Codespaces); inventario em docs/ENVIRONMENT.md. Acesso e escrita confirmados; QEMU/boot/ISO/Ventoy ainda nao testados. Esta atualizacao supera frases de acesso pendente na secao de ambiente historica abaixo. Nao aprova outros ADRs, custos adicionais ou Etapa A.
 
@@ -159,14 +162,14 @@ Cada marco termina com demo reproduzível, testes automatizados e docs atualizad
 # PARALELISMO E ENGENHARIA
 
 - Cada agente trabalha em seu **branch/worktree**. Nunca dois agentes editam os mesmos arquivos.
-- O Orquestrador começa com **no máximo 3 trios ativos** e aumenta conforme o roadmap. Regressão de teste ou desempenho bloqueia integração e devolve a tarefa ao trio.
+- O Orquestrador mantém **no máximo 3 trios ativos**; substitui tarefas concluídas conforme o roadmap, sem ultrapassar esse limite. Regressão de teste ou desempenho bloqueia integração e devolve a tarefa ao trio.
 - Métricas e benchmarks definidos cedo e versionados. Rust por padrão; fuzzing em parsers, syscalls e drivers. Builds determinísticos, toolchain fixada, CI com QEMU headless.
 - Testes: unitários no kernel (harness em QEMU), integração, golden tests no compilador, testes visuais no compositor.
 - Diffs pequenos e reversíveis, commits atômicos (Conventional Commits), sem refatorar o que não foi pedido. ADR para toda decisão estrutural.
 
 # AMBIENTE (Linux remoto; acesso pelo Windows 11)
 
-- Mudança autorizada pelo usuário em 2026-11-05: usar Linux remoto em lugar do WSL2 local, pois não há administrador no Windows. Provedor escolhido: GitHub Codespaces. Criação, acesso e compatibilidade ainda devem ser verificados; escolha não equivale a provisionamento.
+- Mudança autorizada pelo usuário em 2026-11-05: usar Linux remoto em lugar do WSL2 local, pois não há administrador no Windows. Provedor escolhido: GitHub Codespaces. Acesso, escrita, inventário e ferramentas confirmados em /workspaces/MokOS; compatibilidade de boot/ISO/Ventoy ainda não testada. Ver docs/ENVIRONMENT.md.
 - Todo build, script de desenvolvimento e teste roda no Linux remoto. Preferir Ubuntu; registrar distribuição, arquitetura e versões reais antes de instalar ferramentas. O Windows local é cliente de acesso e de recebimento dos artefatos; WSL e administrador local não são pré-requisitos.
 - Projeto no filesystem Linux persistente. No Codespaces, usar a pasta real do repositório em `/workspaces/<repositorio>`; em servidor SSH, `~/mokos`. Registrar o caminho real em `docs/ENVIRONMENT.md`; nunca presumir que o caminho local e remoto são o mesmo. Branch/worktree separado por agente.
 - **Fins de linha LF** sempre (`.gitattributes` com `eol=lf`). Arquivo com CRLF é bug. Caminhos curtos e portáveis para Windows.

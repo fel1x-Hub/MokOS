@@ -22,7 +22,7 @@ A0 acesso Linux remoto, inventário e documentação → A1 recomendações Idea
 - I0: Testador aprova antes do integrador; no tronco somente após revisão e suíte de sistema executada.
 
 ## Bloqueios atuais
-Atualizado em 2026-11-05: usuário não dispõe de administrador local e autorizou substituir WSL por Linux remoto; escolheu GitHub Codespaces. Ainda falta navegador conectado, criação/acesso e inventário do workspace. Raiz local segue sem Git e sem escrita nesta sessão. Mudanças da raiz preparadas em migration/remote-root/; não integradas. Não reinstalar o bloqueio WSL como requisito. Etapa A segue parcial; nenhum código de kernel, compilador ou instalador antes da aprovação exigida na atribuição atual.
+Atualizado em 2026-11-05: usuário não dispõe de administrador local e autorizou substituir WSL por Linux remoto; escolheu GitHub Codespaces. Navegador, acesso, escrita e inventário foram confirmados; ferramentas instaladas. Ver ENVIRONMENT.md e PROGRESS.md atuais. A raiz Windows continua somente leitura; desenvolvimento autorizado no repositório Git do Codespaces. Pacote já publicado na branch do PR #1; integração ao tronco depende dos aceites. Não reinstalar o bloqueio WSL como requisito. Etapa A segue parcial; nenhum código de kernel, compilador ou instalador antes da aprovação exigida na atribuição atual.
 
 ## Marcos futuros, fora do escopo da noite
 M1 memória/interrupções/timer/escalonador/userspace; M2 IPC/VFS/shell; M3 mklc inicial; M4 UI; M5 instalador; M6 desktop; M7 rede; M8 self-hosting; M9 hardware/performance.

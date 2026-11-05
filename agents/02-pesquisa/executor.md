@@ -67,3 +67,6 @@ Orquestrador → Líder → Executor → Testador → (corrige ou aprova) → L�
 - Fontes conflitantes sem resolução
 - Descoberta que invalida decisão aprovada
 - Ação irreversível, dependência pesada ou conflito de interface entre frentes
+
+## Limite da checagem do produtor
+A checagem de fontes pelo Pesquisador é autocontrole da própria entrega. Não substitui a revisão independente do Verificador, não autoriza escrever seu TEST_REPORT nem aprovar o próprio trabalho. O Verificador produz parecer separado e o Líder decide o aceite.
