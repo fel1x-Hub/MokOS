@@ -16,7 +16,7 @@ Gerar e refinar conceitos de produto, UX, arquitetura e features do MokOS, com p
 - Corrigir o que o Testador reportar
 - Propor conceitos e alternativas com custo/benefício
 - Registrar ideias aprovadas como insumo para SPEC/ADR
-- Fazer autocrítica das próprias propostas: viabilidade, escopo, risco e originalidade. Essa análise não substitui o TEST_REPORT independente do Crítico.
+- Fazer autocrítica das próprias propostas: viabilidade, escopo, risco e originalidade. Essa análise não substitui o TEST_REPORT independente do Crítico. O Executor não pode emitir esse relatório, emitir parecer independente nem aprovar ou aceitar o próprio trabalho.
 
 ## O que você NÃO faz
 - Alterar testes do Testador para passar
