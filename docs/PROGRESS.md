@@ -16,7 +16,7 @@ Historico completo anterior: [PROGRESS preservado](history/PROGRESS-before-close
 **Estado:** Etapa A aceita documentalmente. A transição até M0 está autorizada. Nenhum boot ou produto foi executado nesta etapa.
 
 - A1–A5 cobertos documentalmente; recomendações arquiteturais continuam candidatas, sem adoção final.
-- A revisão focal do commit 9869e27 falhou somente por faltar proibição literal de autoaceite no perfil Ideação 01. O commit 090abae171090d8a5e90912ae541365fae54ca21 alterou apenas `agents/01-ideacao/executor.md`.
+- A revisão focal da base 9869e27 falhou somente pela proibição literal ausente no perfil Ideação 01. O diff mediado do commit 090abae171090d8a5e90912ae541365fae54ca21 descreve uma alteração nesse caminho; essa descrição não é auditoria independente da árvore remota.
 - O Testador passou a frase do critério 1; o Líder aceitou o fechamento documental A-CLOSEOUT nesse diff. Critérios 2–9 permanecem aceitos na base e não foram repetidos.
 - QEMU iniciou pausado em TCG nos dois alvos; isso não é boot. Boot hello, ISO, Ventoy, assinatura e instalação não testados.
 - Limine/Ventoy e outras aquisições não autorizadas. Sem gasto adicional, CI/infra ou escrita física.

@@ -12,10 +12,10 @@ Nenhuma aprovação inferida de mensagens de status dos Líderes. Modelos TOP So
 
 ## Aceite final da Etapa A — 2026-11-09
 
-O usuário confirmou o aceite do complemento focal do ciclo 3/5 e autorizou concluir A e seguir conforme o escopo vigente. M0 está autorizado; isso não aprova aquisição Limine/Ventoy, gastos adicionais, CI/infra, disco físico ou M1.
+O Líder de Integração registrou o aceite do complemento focal do ciclo 3/5. A continuidade até M0 se apoia na autorização anterior do usuário, registrada no item 3, para concluir A e continuar conforme o escopo vigente. Isso não aprova aquisição Limine/Ventoy, gastos adicionais, CI/infra, disco físico ou M1.
 
 - Commit-base 9869e27: critérios documentais 2–9 aceitos; a única lacuna focal foi a proibição literal de autoaceite no perfil Ideação 01.
-- Commit 090abae171090d8a5e90912ae541365fae54ca21: alteração única em `agents/01-ideacao/executor.md`; Testador passou e Líder aceitou o fechamento documental no diff único.
+- Commit 090abae171090d8a5e90912ae541365fae54ca21: o diff mediado apresentado para o reteste descreve uma alteração em `agents/01-ideacao/executor.md`; essa descrição não equivale a auditoria independente da árvore remota. Testador passou a frase focal e Líder aceitou o fechamento documental.
 - A1–A5 documentais cobertos. Boot do MokOS, ISO, Ventoy, assinatura, custo e execução de Luna não demonstrados.
 - Limine/Ventoy: autorização de aquisição continua pendente. Não baixar nem tratar como disponíveis.
 - M0 é a fronteira atual; não iniciar M1 nem criar nós. Máximo três trios ativos.
