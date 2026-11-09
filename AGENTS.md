@@ -1,3 +1,7 @@
+# Estado atual — 2026-11-09
+
+A Etapa A foi aceita documentalmente no commit `090abae171090d8a5e90912ae541365fae54ca21`; o usuário autorizou seguir até M0. Boot do MokOS, ISO, Ventoy e assinatura permanecem não testados. Sem aquisição Limine/Ventoy, gasto extra, CI/infra, hardware físico, M1 ou nós novos.
+
 # Política desta retomada
 Consultar docs/SESSION-AUTHORIZATION.md e docs/MODELS.md: usuário solicitou concluir A e continuar após critérios/aceites reais, até M0; máximo high, sem Astra/xhigh. Não é aprovação antecipada dos resultados nem de aquisição de terceiros. A regra geral de parada abaixo aplica-se quando não houver autorização de continuidade já registrada.
 
@@ -194,11 +198,11 @@ A cada checkpoint: **Feito → Verificado (com evidência) → Próximo → Bloq
 
 # EXECUÇÃO
 
-**Etapa A, bootstrap** (executada pelo **Orquestrador-Chefe**; os demais agentes só começam a trabalhar depois da Etapa B e de receberem uma TASK). Parar ao final e pedir aprovação:
+**Etapa A, bootstrap — concluída e aceita documentalmente em 2026-11-09.** A lista seguinte registra o escopo já conferido; não repetir como tarefa pendente. A transição para M0 está autorizada pelo usuário conforme docs/SESSION-AUTHORIZATION.md.
 1. Verificar o ambiente (Rust e targets `x86_64-unknown-none` e `aarch64-unknown-none`, QEMU, OVMF/AAVMF, assembler, clang/gcc, xorriso, just, git) e listar o que falta. Não instalar nada sem mostrar a lista ao usuário.
 2. Escrever `docs/SPEC.md`, `docs/INTERFACES.md`, `docs/ROADMAP.md` e os templates `TASK.md`, `IMPL_NOTES.md`, `TEST_REPORT.md`, `STATUS.md`.
 3. Criar `agents/<frente>/{lider,executor,testador}.md` para as 11 frentes, com modelo e esforço da tabela.
 4. Acionar Ideação e Pesquisa e apresentar cada decisão em aberto com 2 a 3 alternativas, trade-offs, fontes e recomendação: modelo de kernel, backend do `mklc`, modelo de memória da Moklang, bootloader (com Ventoy), hardware de referência.
 5. Confirmar os modelos disponíveis e propor o preenchimento das variáveis.
 
-**Etapa B, operação:** após aprovação do usuário, o Orquestrador dispara os trios conforme o roadmap, a partir do M0. A cada marco: objetivos por frente, resultados aprovados, integração, validação, atualização de `PROGRESS.md`, reavaliação do plano.
+**Etapa B, operação:** a transição para M0 está autorizada. O Orquestrador coordena somente trios existentes conforme o roadmap, no máximo três ativos, sem iniciar M1. Cada marco exige tarefa, revisão independente, aceite, integração e atualização de `PROGRESS.md`. Limine/Ventoy e gasto adicional seguem pendentes de autorização específica.

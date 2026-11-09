@@ -9,3 +9,13 @@ Fonte: mensagens do usuário nesta conversa, preservadas aqui como escopo de tra
 5. Limine/Ventoy oficiais para testes virtuais: pergunta específica enviada e ainda sem resposta explícita até este registro. Não baixar nem tratar como instalados enquanto pendente. Cranelift permanece candidato documental para M3; nenhuma aquisição agora.
 
 Nenhuma aprovação inferida de mensagens de status dos Líderes. Modelos TOP Sol, MEDIO Terra e RAPIDO Luna, máximo high, sem Astra/xhigh; três trios ativos no máximo, nenhum novo nó. Escrita em dispositivos físicos, CI/infra, custos adicionais e ações irreversíveis continuam fora deste escopo.
+
+## Aceite final da Etapa A — 2026-11-09
+
+O usuário confirmou o aceite do complemento focal do ciclo 3/5 e autorizou concluir A e seguir conforme o escopo vigente. M0 está autorizado; isso não aprova aquisição Limine/Ventoy, gastos adicionais, CI/infra, disco físico ou M1.
+
+- Commit-base 9869e27: critérios documentais 2–9 aceitos; a única lacuna focal foi a proibição literal de autoaceite no perfil Ideação 01.
+- Commit 090abae171090d8a5e90912ae541365fae54ca21: alteração única em `agents/01-ideacao/executor.md`; Testador passou e Líder aceitou o fechamento documental no diff único.
+- A1–A5 documentais cobertos. Boot do MokOS, ISO, Ventoy, assinatura, custo e execução de Luna não demonstrados.
+- Limine/Ventoy: autorização de aquisição continua pendente. Não baixar nem tratar como disponíveis.
+- M0 é a fronteira atual; não iniciar M1 nem criar nós. Máximo três trios ativos.

@@ -28,5 +28,11 @@ Atualizado em 2026-11-05: usuário não dispõe de administrador local e autoriz
 M1 memória/interrupções/timer/escalonador/userspace; M2 IPC/VFS/shell; M3 mklc inicial; M4 UI; M5 instalador; M6 desktop; M7 rede; M8 self-hosting; M9 hardware/performance.
 
 ## Adendo — gates e evidência
-Origem da liberação A→B: docs/NIGHT-AUTHORIZATION.md, item 1 do usuário. Gate técnico A ainda incompleto; não houve passagem B por simples inferência de autorização. Cinco decisões: kernel ADR 0001, backend mklc 0002, memória Moklang 0003, bootloader/Ventoy 0004 e hardware de referência 0005; críticas/resultados em PROGRESS.
+Aceite A e transição para M0 registrados em docs/SESSION-AUTHORIZATION.md: fechamento documental confirmado em 2026-11-09. Cinco decisões seguem documentadas como recomendações, sem adoção automática: kernel ADR 0001, backend mklc 0002, memória Moklang 0003, bootloader/Ventoy 0004 e hardware de referência 0005.
 B3/B4 exigem just iso, ISO híbrida, checksum SHA256 e assinatura conforme SPEC R4. Assinatura não produzida; ferramentas e política de chaves não definidas. Não instalar ferramentas adicionais sem autorização. Nenhuma aquisição de dependência/bootloader é inferida da escolha documental de candidato.
+
+## Estado após aceite A — 2026-11-09
+
+Etapa A aceita documentalmente; transição para M0 autorizada dentro de `docs/SESSION-AUTHORIZATION.md`.
+
+**Próximo:** decompor B0–I0 em tarefas pequenas para os trios existentes Rust, Assembly e Build/ISO, com ownership sem sobreposição e no máximo três trios ativos. Antes de código que dependa de bootloader ou mídia Ventoy, resolver a autorização de aquisição pendente. Usar o inventário/ferramentas já instalados; não alegar boot, ISO ou Ventoy testados. Não iniciar M1, hardware físico, CI/infra ou gasto adicional.
